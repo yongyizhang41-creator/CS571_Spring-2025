@@ -1,0 +1,14 @@
+{
+    "name": {
+        "first": "Yongyi", 
+        "last": "Zhang"
+    }, 
+    "fromWisconsin": true, 
+    "numCredits": 16, 
+    "major": "Computer Science", 
+    "interest": ["football", 
+                "basketball", 
+                "tennis", 
+                "programming"
+                ]
+}
